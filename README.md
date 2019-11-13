@@ -15,3 +15,5 @@
 | ------------ | --- | -------- | ---------- | --------------- | ------------ |
 | [안핑거](https://www.youtube.com/channel/UChm5rCEC_Q4-jel22yXDi4w) | 직장암 4기 | 2019. 7. 6. | X | :large_blue_circle: | :question: |
 | [JIGUN](https://www.youtube.com/channel/UCT2PcH3vXDU-UzsRjACy90w) | 담도암 | 2019. 9. 30 | O | :red_circle: | :red_circle: |
+| [kim핸섬킴 어머니](https://www.youtube.com/channel/UCpznDHg0nsvHwDLCRmxnDfQ) | 폐암 | 2019. 10월 초 | O | :large_blue_circle: | :large_blue_circle: |
+| [SangGeun HwangBo](https://www.youtube.com/channel/UCgas1PwBraSfM-NHVBV9jhg) | 신장암 4기 뼈 전이 | 2019. 10. 19 | X | :question: | :question: |
