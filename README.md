@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## 항암제로서의 펜벤다졸
 
-You can use the [editor on GitHub](https://github.com/fight-cancer/fenbendazole/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+이 사이트는 항암제로서의 펜벤다졸에 관한 자료를 수집하고 정리하는 사이트이다. 펜벤다졸의 효능에 대한 일체의 선입견을 배제하고 자료를 정리하는데에 목적을 둔다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 조 티펜스의 사례
 
-### Markdown
+### 펜벤다졸을 비롯한 벤다졸 계열의 항암 효과에 대한 논문과 그 해설
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 펜벤다졸 투여에 대한 의사들의 견해
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fight-cancer/fenbendazole/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 펜벤다졸로 셀프 임상을 하고 있는 암투병자들의 기록
